@@ -1,3 +1,7 @@
+# DISCLAIMER
+The original author advises: "(...) apg is not developed/supported for many years already."
+
+
 # origin
 These files correspond to the files found on http://www.adel.nursat.kz/apg/ , namely:
   * apg-2.2.3.tar.gz
